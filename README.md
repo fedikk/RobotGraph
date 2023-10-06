@@ -1,4 +1,4 @@
-# Graph It - Maze-Solving Robot
+# RobotGraph - Maze-Solving Robot
 
 ## Project Overview
 
